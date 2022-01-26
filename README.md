@@ -1,1 +1,1 @@
-# IPC_Qt
+# IPC_Qt version 1.0

@@ -1,6 +1,6 @@
 #include "thread1.h"
 #include <QtCore>
-
+// proccessing text from EditLine
 void processText(QString &txt)
 {
     std::sort(txt.begin(), txt.end(),std::greater<QChar>());
